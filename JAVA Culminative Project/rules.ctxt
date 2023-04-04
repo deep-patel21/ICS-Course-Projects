@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=rules
+comment0.text=\r\n\ An\ image\ that\ has\ the\ rules\ on\ it.\ Created\ in\ paint.\r\n\ Deep\ Patel\r\n\ JUNE\ 2019\r\nBlockGame.java
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ rules\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=winline
+comment0.text=\r\n\ When\ the\ pieces\ reach\ this\ line,\ the\ game\ is\ over.\r\n\ JUNE\ 2019\ \ \ \ \r\n\ Deep\ Patel\r\n\ ICS3U1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ winline\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

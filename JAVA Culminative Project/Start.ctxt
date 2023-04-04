@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ This\ is\ the\ start\ button\ and\ when\ it\ is\ clicked,\ it\ changes\ the\ game\ background\ to\ the\ playing\ grid.\r\n\ Deep\ Patel\r\n\ JUNE\ 2019\r\nBlockGame.java
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Start\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2
